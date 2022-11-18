@@ -30,3 +30,7 @@ h1{
     justify-content: flex-start;
 
 }
+footer{
+    background-color: black;
+    color: antiquewhite;
+}
